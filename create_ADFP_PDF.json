@@ -1,0 +1,29 @@
+{
+    "course_info": {
+        "creator": "LHLAIB",
+        "course_name": "iclab",
+        "term": "2024_Fall",
+        "stu_from": 1,
+        "stu_to": 75,
+        "TA_from": 1,
+        "TA_to": 8
+    },
+    "PDF": {
+        "Enable_WaterProof_PDF": true,
+        "Input Folder": "/RAID2/WaterProof_PDF/Tech_Doc/ADFP_PDF",
+        "Output Folder": "./WaterProof_PDF",
+        "Enable_Move_PDF_To_NFS": true,
+        "NFS_folder": "/RAID2/WaterProof_PDF",
+        "Enable_Create_Symbolic_Link": true,
+        "course_folder": "/RAID2/COURSE/",
+        "watermark_text": "",
+        "dpi": 300,
+        "opacity": 100,
+        "angle": 45,
+        "spacing_width": 10,
+        "spacing_height": 28,
+        "font_size": 14,
+        "Enable_Remove_from_output_folder": false,
+        "Enable_Remove_from_NFS_folder": false
+    }
+}
